@@ -5,6 +5,7 @@ A github hosted website to help draw a link between school shootings and NRA bac
 ![alt text](https://raw.githubusercontent.com/meadio/kids-over-guns/master/Design-Mock.jpg)
 
 ### Sources
-Insert list of sources
+* https://www.opensecrets.org/lobby/clientsum.php?id=D000000082&year=2017
+* https://www.senate.gov/legislative/opr.htm
 
 ### Support
